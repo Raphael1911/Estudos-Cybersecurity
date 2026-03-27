@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Thu Mar 26 22:01:45 2026 as: nmap -oG greapable_output.txt localhost
+Host: 127.0.0.1 (localhost)	Status: Up
+Host: 127.0.0.1 (localhost)	Ports: 631/open/tcp//ipp///, 8000/open/tcp//http-alt///	Ignored State: closed (998)
+# Nmap done at Thu Mar 26 22:01:45 2026 -- 1 IP address (1 host up) scanned in 0.07 seconds
