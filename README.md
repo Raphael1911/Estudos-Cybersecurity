@@ -23,6 +23,7 @@ Clique nas pastas abaixo para acessar os relatórios e scripts:
   *Relatórios detalhados de laboratórios práticos de segurança.*
   * [Hydra Brute Force Analysis](./writeups-labex/hydra-brute-force) - *Reconnaissance & Brute Force simulation.*
   * [Nmap Netword Reconnaissance](./writeups-labex/nmap-Fundamentals)- *Varreduras de portas, detecção de serviões e gestões de logs.*
+  * [Wireshark configuration and test](./writeups-labex/wireshark-icmp)- *Configurando wireshark e realizando uma análise simples de pacote.*
 ---
 
 ## 🛠️ Ferramentas em Estudo & Tech Stack
